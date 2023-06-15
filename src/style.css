@@ -1,0 +1,18 @@
+.ageTag{
+    color: rgb(7, 101, 182);
+}
+
+.emailTag{
+    color: green;
+}
+
+.nameTag{
+    color: darkslategray;
+}
+
+
+
+.App{
+   border:  5px solid cadetblue;
+}
+
